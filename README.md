@@ -1,5 +1,5 @@
 # covidInd-twitterbot
-A twitter bot I made which replies the districts real-time corona virus cases in **India**.
+A twitter bot which replies the districts real-time corona virus cases in **India**.
 
 Inorder to use it you should have a twitter developer account and once you have it use the keys in their respective variables.
 The bot will reply to the tweets which have mentioned it along with a syntax of the district's data it is requesting for.
